@@ -10,5 +10,5 @@ As mensagens serão escolhidas randômicamente do nosso banco de dados e poderã
 # Frameworks
 
 * Google Charts: Geração de QRCode
-* html e css
-* Javascript
+* html e css: Estilização
+* Javascript: Lógica
