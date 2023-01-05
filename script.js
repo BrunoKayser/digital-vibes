@@ -1,6 +1,6 @@
 function GenerateQRCode() {
     var urlSite = "https://www.youtube.com/watch?v=WuMIkpUwksU";
-    var urlQrCodeGoogleChartApi = "https://chart.googleapis.com/chart?cht=qr&chs=250x250&chl=";
+    var urlQrCodeGoogleChartApi = "https://chart.googleapis.com/chart?cht=qr&chs=250x250&chld=Q&chl=";
 
     var content = urlQrCodeGoogleChartApi + urlSite;
 
