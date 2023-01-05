@@ -4,8 +4,8 @@ Projeto criado para entregar mensagens positivas a pessoas que lerem um QRCode q
 As mensagens serão escolhidas randômicamente do nosso banco de dados e poderão ser inserido novas frases de forma opcional pelos usuários.
 
 # Desenvolvedores
-* Bruno Kayser 
-* Ulysses Lopes
+* Bruno Kayser: https://github.com/BrunoKayser
+* Ulysses Lopes: https://github.com/UlyssesLopes
 
 # Frameworks
 
