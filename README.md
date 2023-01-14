@@ -12,3 +12,4 @@ As mensagens serão escolhidas randômicamente do nosso banco de dados e poderã
 * Google Charts: Geração de QRCode
 * html e css: Estilização
 * Javascript: Lógica
+* Django
