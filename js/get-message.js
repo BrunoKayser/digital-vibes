@@ -9,6 +9,6 @@ fetch('https://dog.ceo/api/breeds/image/random')
     })
     .then(response => {
         console.log(response.message);
-        message.innerHTML = "<p>" + response.message + "</P>";   
+        message.innerHTML = "<img src =" + response.message + ">";   
     });
 
