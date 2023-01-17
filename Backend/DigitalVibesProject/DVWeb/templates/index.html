@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital vibes</title>
+    <link rel="stylesheet" href="../static/css/general.css">
+</head>
+<body>
+    <div class="container">
+        <button onClick="GenerateQRCode()" id="GenerateQRCode" class="GenerateQRCodeButton">Gerar QR Code</button>
+        <h1 hidden id="CamTitle">Aponte a câmera</h1>
+        <img alt="QR Code" id="QRCodeImage" hidden>
+        <script src="../static/js/script.js" ></script>
+        <br>
+        <button hidden onClick="DeleteQRCode()" id="DeleteQRCodeImage">Apagar QR Code</button>
+    </div>
+</body>
+</html>
